@@ -17,3 +17,6 @@ However, with this security vulnerability, the Attacker can **freely resolve the
 ## Method #2
 Another way the Attacker could crack the User's Password, is by physically getting hold of the User's device which is already logged on to Twitter. The attacked could then completely takeover the account, leaving the victim no chance to reclaim his account.
 An incident like this, recently happened to https://twitter.com/Jessewelle - where his Phone got stolen and the attacker could easily brute-force his way into finding his Password and completely taking over his account, without the victim being able to do anything about it.
+
+## Script PoC screenshot
+![alt text](https://i.imgur.com/v3MbpbS.png "Script PoC")
