@@ -1,5 +1,5 @@
-Vulnerability title: **Reflected Xss - Cross Site Scripting + Html Injection in Imgur image uploader error message**
-Reported to: Imgur
+Vulnerability title: **Reflected Xss - Cross Site Scripting + Html Injection in Imgur image uploader error message**\
+Reported to: **Imgur**\
 State: **Duplicate** &rarr; **Resolved (Closed)**
 
 ## PoC
